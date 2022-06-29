@@ -1,9 +1,14 @@
-#Instruction to run server locally
+# Instruction to run server locally
 
 ## clone the repo
+  `git clone https://github.com/HafizulHaque/test-angular-http-db.git`
 
-## run 'npm install'
+## Open Command Prompt in the git directory and run the command 
+`npm install`
 
-## open command prompt in the project directory and run npm start
+## Then run the following command to start the server
+`npm start`
 
 and your local MOCK API is running at http://localhost:3000/posts
+
+congratulations!
